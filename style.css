@@ -52,3 +52,8 @@
     width: 600px;
     height: 355px;
 }
+
+/*setting clients images height and width*/
+.review img {
+    height: 200px;
+}
