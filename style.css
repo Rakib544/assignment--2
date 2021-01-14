@@ -1,46 +1,53 @@
+/*addign google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+/*adding google fonts */
 
+/* setting navbar log height and width */
 .navbar img {
     width: 192px;
     height: 40px;
 }
-.font-large-skin {
+
+/*setting banner title font size */
+.banner-title {
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
     line-height: 80px;
 }
+
+/* setting banner image positon */
 #banner img{
     margin-top:-140px;
     width: 80%;
 }
 
-.button {
-    border-radius: 10px;
-}
-
+/*setting card border-radius*/
 .card-style {
     border-radius: 20px !important;
 }
 
-
+/*setting card title font properties */
 .card-title-text {
     font-size: 24px;
     font-family: 'Roboto', sans-serif;
 }
 
+/*setting button design */
 .button-text {
     font-size: 12px;
     padding: 10px 20px;
     border-radius: 8px;
 }
 
+/* setting price text properties */
 .price-text {
     font-weight: 36px;
     font-weight: 900;
     line-height: 42px;
 }
 
+/*setting service card image height and width */
 .service-right-img {
     width: 600px;
     height: 355px;
